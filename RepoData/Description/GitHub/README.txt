@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🇸-🇩-🇪📱️🌐️💾️ SDE MobileServer is an experimental project chain with the goal of running an entire server off of a portable device (phones, phablets, and tablets)
