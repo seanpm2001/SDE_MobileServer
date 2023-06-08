@@ -57,16 +57,25 @@ Documentation is located in a separate repository: [:octocat: `SDE MobileServer 
 
 ## Repositories
 
-As of 2023, Tuesday, June 6th, there are `2` repositories that are part of this project. They include:
+As of 2023, Wednesday, June 7th, there are `4` repositories that are part of this project. They include:
 
 - [:octocat: `SDE MobileServer (current repository)`](https://github.com/seanpm2001/SDE_MobileServer/)
 - [:octocat: `SDE MobileServer Docs`](https://github.com/seanpm2001/SDE_MobileServer_Docs/)
+- [:octocat: `SDE MobileServer Imager`](https://github.com/seanpm2001/SDE_MobileServer_Imager/)
+- [:octocat: `SDE MobileServer TestZone`](https://github.com/seanpm2001/SDE_MobileServer_TestZone/)
+
 - More repositories coming soon.
+
+## SDE project
+
+| <img src="/SDE.png" alt="SDE Logo failed to load" width="256" height="256">
+|---|
+| This project is a part of the [S Desktop Environment (SDE, or Skeuowie) project](https://github.com/seanpm2001/SDE/) |
 
 ***
 
 # File info
 
-**File version:** `1 (2023, Tuesday, June 6th at 11:25 pm PST)`
+**File version:** `2 (2023, Wednesday, June 7th at 10:21 pm PST)`
 
 ***
