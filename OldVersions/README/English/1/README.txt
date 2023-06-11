@@ -65,12 +65,14 @@ Documentation is located in a separate repository: [:octocat: `SDE MobileServer 
 
 ## [Ports](#Ports)
 
-Ports of SDE MobileServer are available for `4` operating systems, as of 2023, Friday 9th, which include:
+Ports of SDE MobileServer are available for `6` operating systems, as of 2023, Saturday, June 10th, which include:
 
 - [:octocat: `SDE MobileServer for Android`](https://github.com/seanpm2001/SDE_MobileServer_Android/) - AndroidOS port (Java-based)
 - [:octocat: `SDE MobileServer for FireOS`](https://github.com/seanpm2001/SDE_MobileServer_FireOS/) - FireOS port (Kotlin-based)
 - [:octocat: `SDE MobileServer for iOS`](https://github.com/seanpm2001/SDE_MobileServer_iOS/) - iOS port (Swift-based)
 - [:octocat: `SDE MobileServer for iPadOS`](https://github.com/seanpm2001/SDE_MobileServer_iPadOS/) - iPadOS port (Objective-C++-based)
+- [:octocat: `SDE MobileServer for Ubuntu`](https://github.com/seanpm2001/SDE_MobileServer_Ubuntu/) - Ubuntu mobile port (Python-based and Vala-based)
+- [:octocat: `SDE MobileServer for PostMarketOS`](https://github.com/seanpm2001/SDE_MobileServer_PostMarketOS/) - PostMarketOS mobile port (Python-based and Vala-based)
 
 This is for the server itself. The imager, and other utilities are planned to have support on:
 
@@ -83,7 +85,7 @@ This is for the server itself. The imager, and other utilities are planned to ha
 
 ## [Repositories](#Repositories)
 
-As of 2023, Friday, June 9th, there are `8` repositories that are part of this project. They include:
+As of 2023, Saturday, June 10th, there are `10` repositories that are part of this project. They include:
 
 - [:octocat: `SDE MobileServer (current repository)`](https://github.com/seanpm2001/SDE_MobileServer/) - Home repository
 - [:octocat: `SDE MobileServer Docs`](https://github.com/seanpm2001/SDE_MobileServer_Docs/) - Documentation repository
@@ -93,6 +95,8 @@ As of 2023, Friday, June 9th, there are `8` repositories that are part of this p
 - [:octocat: `SDE MobileServer FireOS`](https://github.com/seanpm2001/SDE_MobileServer_FireOS/) - FireOS port SDE MOBSVR
 - [:octocat: `SDE MobileServer iOS`](https://github.com/seanpm2001/SDE_MobileServer_iOS/) - iOS port SDE MOBSVR
 - [:octocat: `SDE MobileServer iPadOS`](https://github.com/seanpm2001/SDE_MobileServer_iPadOS/) - iPadOS port SDE MOBSVR
+- [:octocat: `SDE MobileServer Ubuntu`](https://github.com/seanpm2001/SDE_MobileServer_Ubuntu/) - Ubuntu port SDE MOBSVR
+- [:octocat: `SDE MobileServer PostMarketOS`](https://github.com/seanpm2001/SDE_MobileServer_PostMarketOS/) - PostMarketOS port SDE MOBSVR
 
 - More repositories coming soon.
 
@@ -112,9 +116,9 @@ As of 2023, Friday, June 9th, there are `8` repositories that are part of this p
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `4 (2023, Friday, June 9th at 10:12 pm PST)`
+**File version:** `5 (2023, Saturday, June 10th at 10:46 pm PST)`
 
-**Line count (including blank lines and compiler line):** `228`
+**Line count (including blank lines and compiler line):** `253`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -209,6 +213,27 @@ As of 2023, Friday, June 9th, there are `8` repositories that are part of this p
 - - [x] Added an entry for version 4
 - [x] Added the footer
 - [ ] No other changes in version 4
+
+</details>
+
+---
+
+<details><summary><p lang="en"><b>Version 5 (2023, Saturday, June 10th at 10:46 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Repositories` section
+- [x] Added the `Ports` section
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 5
+- [x] Added the footer
+- [ ] No other changes in version 5
 
 </details>
 
