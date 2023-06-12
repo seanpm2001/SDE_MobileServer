@@ -65,16 +65,18 @@ Documentation is located in a separate repository: [:octocat: `SDE MobileServer 
 
 ## [Ports](#Ports)
 
-Ports of SDE MobileServer are available for `6` operating systems, as of 2023, Saturday, June 10th, which include:
+Official Ports of SDE MobileServer are currently available for `6` operating systems, as of 2023, Sunday, June 11th, which include:
 
-- [:octocat: `SDE MobileServer for Android`](https://github.com/seanpm2001/SDE_MobileServer_Android/) - AndroidOS port (Java-based)
-- [:octocat: `SDE MobileServer for FireOS`](https://github.com/seanpm2001/SDE_MobileServer_FireOS/) - FireOS port (Kotlin-based)
-- [:octocat: `SDE MobileServer for iOS`](https://github.com/seanpm2001/SDE_MobileServer_iOS/) - iOS port (Swift-based)
-- [:octocat: `SDE MobileServer for iPadOS`](https://github.com/seanpm2001/SDE_MobileServer_iPadOS/) - iPadOS port (Objective-C++-based)
-- [:octocat: `SDE MobileServer for Ubuntu`](https://github.com/seanpm2001/SDE_MobileServer_Ubuntu/) - Ubuntu mobile port (Python-based and Vala-based)
-- [:octocat: `SDE MobileServer for PostMarketOS`](https://github.com/seanpm2001/SDE_MobileServer_PostMarketOS/) - PostMarketOS mobile port (Python-based and Vala-based)
+| Logo | Repo link | Info | Language(s) | 
+|---|---|---|---|
+| <img src="/Graphics/OSPorts/Android/SVG/Android_logo_2019_(stacked).svg" alt="/Graphics/OSPorts/Android/SVG/Android_logo_2019_(stacked).svg" width="128" height="128"> | [:octocat: `SDE MobileServer for Android`](https://github.com/seanpm2001/SDE_MobileServer_Android/) | AndroidOS port | `Java` |
+| <img src="/Graphics/OSPorts/FireOS/PNG/Amazon-Fire-Logo.png" alt="/Graphics/OSPorts/FireOS/PNG/Amazon-Fire-Logo.png" width="128" height="128"> | [:octocat: `SDE MobileServer for FireOS`](https://github.com/seanpm2001/SDE_MobileServer_FireOS/) | FireOS port | `Kotlin` |
+| <img src="/Graphics/OSPorts/iOS/PNG/iOS_Logo.png" alt="/Graphics/OSPorts/iOS/PNG/iOS_Logo.png" width="128" height="128"> | [:octocat: `SDE MobileServer for iOS`](https://github.com/seanpm2001/SDE_MobileServer_iOS/) | iOS port | `Swift` |
+| <img src="/Graphics/OSPorts/iPadOS/PNG/iPadOS-Logo.png" alt="/Graphics/OSPorts/iPadOS/iPadOS-Logo.png" width="128" height="128"> | [:octocat: `SDE MobileServer for iPadOS`](https://github.com/seanpm2001/SDE_MobileServer_iPadOS/) | iPadOS port | `Objective-C++` |
+| <img src="/Graphics/OSPorts/PostMarketOS/SVG/PostmarketOS_logo.svg" alt="/Graphics/OSPorts/PostMarketOS/SVG/PostmarketOS_logo.svg" width="128" height="128"> | [:octocat: `SDE MobileServer for PostMarketOS`](https://github.com/seanpm2001/SDE_MobileServer_PostMarketOS) | PostMarketOS port | `Python` `Vala` |
+| <img src="/Graphics/OSPorts/Ubuntu/PNG/UbuntuLogo1.png" alt="/Graphics/OSPorts/Ubuntu/PNG/UbuntuLogo1.png" width="128" height="128"> | [:octocat: `SDE MobileServer for Ubuntu`](https://github.com/seanpm2001/SDE_MobileServer_Ubuntu) | Ubuntu Touch port | `Python` `Vala` |
 
-This is for the server itself. The imager, and other utilities are planned to have support on:
+This is for the server itself. The [imager](#Imager), and other [utilities](#Utilities) are planned to have support on:
 
 - Ubuntu 16.04 and up
 - Fedora 26 and up
@@ -83,28 +85,53 @@ This is for the server itself. The imager, and other utilities are planned to ha
 
 ***
 
+## [Plugins](#Plugins)
+
+There are currently `2` official plugins for SDE MobileServer, as of 2023, Sunday, June 11th, which include:
+
+| Logo | Repo link | Info | Language(s) | 
+|---|---|---|---|
+| <img src="/Graphics/Plugins/CraftCMS/JPEG/CraftCMS-Logo.jpeg" alt="/Graphics/Plugins/CraftCMS/JPEG/CraftCMS-Logo.jpeg" width="128" height="128"> | [:octocat: `SDE MobileServer CraftCMS Plugin`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_CraftCMS/) | CraftCMS support for MobileServer | `PHP` |
+| <img src="/Graphics/Plugins/Ruffle/SVG/Ruffle_vector_logo.svg" alt="/Graphics/Plugins/Ruffle/SVG/Ruffle_vector_logo.svg" width="128" height="128"> | [:octocat: `SDE MobileServer RuffleRS Plugin`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_Ruffle/) | RuffleRS support for MobileServer | `Rust` |
+
+***
+
+## [Utilities](#Utilities)
+
+There are currently `2` official utilities for SDE MobileServer, as of 2023, Sunday, June 11th, which include:
+
+| Logo | Repo link | Info | Language(s) | 
+|---|---|---|---|
+| <img src="/SDE.png" alt="SDE Logo failed to load" width="128" height="128"> | [:octocat: `SDE MobileServer Imager`](https://github.com/seanpm2001/SDE_MobileServer_Imager/) | Server imaging utility | `C` |
+| <img src="/SDE.png" alt="SDE Logo failed to load" width="128" height="128"> | [:octocat: `SDE MobileServer TestZone`](https://github.com/seanpm2001/SDE_MobileServer_TestZone/) | Server testing utility | `C` |
+
+These are not to be confused with plugins. Utilities help configure and setup the server, plugins are additional components for the launched server.
+
+***
+
 ## [Repositories](#Repositories)
 
-As of 2023, Saturday, June 10th, there are `10` repositories that are part of this project. They include:
+As of 2023, Sunday, June 11th, there are `12` repositories that are part of this project. They include:
 
 - [:octocat: `SDE MobileServer (current repository)`](https://github.com/seanpm2001/SDE_MobileServer/) - Home repository
 - [:octocat: `SDE MobileServer Docs`](https://github.com/seanpm2001/SDE_MobileServer_Docs/) - Documentation repository
 - [:octocat: `SDE MobileServer Imager`](https://github.com/seanpm2001/SDE_MobileServer_Imager/) - Server imaging utility
 - [:octocat: `SDE MobileServer TestZone`](https://github.com/seanpm2001/SDE_MobileServer_TestZone/) - Server testing utility
 - [:octocat: `SDE MobileServer Android`](https://github.com/seanpm2001/SDE_MobileServer_Android/) - AndroidOS port of SDE MOBSVR
-- [:octocat: `SDE MobileServer FireOS`](https://github.com/seanpm2001/SDE_MobileServer_FireOS/) - FireOS port SDE MOBSVR
-- [:octocat: `SDE MobileServer iOS`](https://github.com/seanpm2001/SDE_MobileServer_iOS/) - iOS port SDE MOBSVR
-- [:octocat: `SDE MobileServer iPadOS`](https://github.com/seanpm2001/SDE_MobileServer_iPadOS/) - iPadOS port SDE MOBSVR
-- [:octocat: `SDE MobileServer Ubuntu`](https://github.com/seanpm2001/SDE_MobileServer_Ubuntu/) - Ubuntu port SDE MOBSVR
-- [:octocat: `SDE MobileServer PostMarketOS`](https://github.com/seanpm2001/SDE_MobileServer_PostMarketOS/) - PostMarketOS port SDE MOBSVR
-
+- [:octocat: `SDE MobileServer FireOS`](https://github.com/seanpm2001/SDE_MobileServer_FireOS/) - FireOS port for SDE MOBSVR
+- [:octocat: `SDE MobileServer iOS`](https://github.com/seanpm2001/SDE_MobileServer_iOS/) - iOS port for SDE MOBSVR
+- [:octocat: `SDE MobileServer iPadOS`](https://github.com/seanpm2001/SDE_MobileServer_iPadOS/) - iPadOS port for SDE MOBSVR
+- [:octocat: `SDE MobileServer Ubuntu`](https://github.com/seanpm2001/SDE_MobileServer_Ubuntu/) - Ubuntu port for SDE MOBSVR
+- [:octocat: `SDE MobileServer PostMarketOS`](https://github.com/seanpm2001/SDE_MobileServer_PostMarketOS/) - PostMarketOS port for SDE MOBSVR
+- [:octocat: `SDE MobileServer Plugins CraftCMS`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_CraftCMS/) - CraftCMS plugin for SDE MOBSVR
+- [:octocat: `SDE MobileServer Plugins RuffleRS`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_Ruffle/) - RuffleRS plugin for SDE MOBSVR
 - More repositories coming soon.
 
 ***
 
 ## [SDE Project](#SDE-Project)
 
-| <img src="/SDE.png" alt="SDE Logo failed to load" width="256" height="256">
+| <img src="/SDE.png" alt="SDE Logo failed to load" width="256" height="256"> |
 |---|
 | This project is a part of the [S Desktop Environment (SDE, or Skeuowie) project](https://github.com/seanpm2001/SDE/) |
 
@@ -116,9 +143,17 @@ As of 2023, Saturday, June 10th, there are `10` repositories that are part of th
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `5 (2023, Saturday, June 10th at 10:46 pm PST)`
+**File version:** `6 (2023, Sunday, June 11th at 10:10 pm PST)`
 
-**Line count (including blank lines and compiler line):** `253`
+**Line count (including blank lines and compiler line):** `314`
+
+**Word count:** `1,839`
+
+**Character count (including spaces):** `12,826`
+
+**Character count (excluding spaces):** `11,098`
+
+**Size (in bytes):** `12,854`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -234,6 +269,32 @@ As of 2023, Saturday, June 10th, there are `10` repositories that are part of th
 - - [x] Added an entry for version 5
 - [x] Added the footer
 - [ ] No other changes in version 5
+
+</details>
+
+---
+
+<details><summary><p lang="en"><b>Version 6 (2023, Sunday, June 11th at 10:10 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Repositories` section
+- [x] Updated the `Ports` section
+- - [x] Converted the list into a table with icons, and additional information
+- [x] Added the `Plugins` section
+- - [x] Added a table with the current 2 plugins, that includes icons, and additional information
+- [x] Added the `Utilities` section
+- - [x] Added a table with the current 2 utilities, that includes icons, and additional information
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 6
+- [x] Added the footer
+- [ ] No other changes in version 6
 
 </details>
 
