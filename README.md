@@ -65,7 +65,7 @@ Documentation is located in a separate repository: [:octocat: `SDE MobileServer 
 
 ## [Ports](#Ports)
 
-Official Ports of SDE MobileServer are currently available for `6` operating systems, as of 2023, Monday, June 12th, which include:
+Official Ports of SDE MobileServer are currently available for `6` operating systems, as of 2023, Tuesday, June 13th, which include:
 
 | Logo | Repo link | Info | Language(s) | 
 |---|---|---|---|
@@ -87,20 +87,22 @@ This is for the server itself. The [imager](#Imager), and other [utilities](#Uti
 
 ## [Plugins](#Plugins)
 
-There are currently `4` official plugins for SDE MobileServer, as of 2023, Monday, June 12th, which include:
+There are currently `6` official plugins for SDE MobileServer, as of 2023, Tuesday, June 13th, which include:
 
 | Logo | Repo link | Info | Language(s) | 
 |---|---|---|---|
 | <img src="/Graphics/Plugins/CraftCMS/JPEG/CraftCMS-Logo.jpeg" alt="/Graphics/Plugins/CraftCMS/JPEG/CraftCMS-Logo.jpeg" width="128" height="128"> | [:octocat: `SDE MobileServer CraftCMS Plugin`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_CraftCMS/) | CraftCMS support for MobileServer | `PHP` |
 | <img src="/Graphics/Plugins/Ruffle/SVG/Ruffle_vector_logo.svg" alt="/Graphics/Plugins/Ruffle/SVG/Ruffle_vector_logo.svg" width="128" height="128"> | [:octocat: `SDE MobileServer RuffleRS Plugin`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_Ruffle/) | RuffleRS support for MobileServer | `Rust` |
 | <img src="/Graphics/Plugins/WordPress/PNG/WordPress-Logo.png" alt="/Graphics/Plugins/WordPress/PNG/WordPress-Logo.png" width="128" height="128"> | [:octocat: `SDE MobileServer WordPress Plugin`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_WordPress/) | WordPress support for MobileServer | `PHP` |
-| <img src="/Graphics/Plugins/MediaWiki/PNG/MediaWiki_logo_1-1536x1536.png" alt="/Graphics/Plugins/MediaWiki/PNG/MediaWiki_logo_1-1536x1536.png" width="128" height="128"> | [:octocat: `SDE MobileServer MediaWiki Plugin`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_MediaWiki) | MediaWiki support for MobileServer | `PHP` |
+| <img src="/Graphics/Plugins/MediaWiki/PNG/MediaWiki_logo_1-1536x1536.png" alt="/Graphics/Plugins/MediaWiki/PNG/MediaWiki_logo_1-1536x1536.png" width="128" height="128"> | [:octocat: `SDE MobileServer MediaWiki Plugin`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_MediaWiki/) | MediaWiki support for MobileServer | `PHP` |
+| <img src="/Graphics/Plugins/SNU/PNG/SNU_blue_and_gold_legacy_icon.png" alt="/Graphics/Plugins/SNU/PNG/SNU_blue_and_gold_legacy_icon.png" width="128" height="128"> | [:octocat: `SDE MobileServer SNU Plugin`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_SNU/) | SNU support for MobileServer | `Python` |
+| <img src="/Graphics/Plugins/XMPP/SVG/XMPP_logo.svg" alt="/Graphics/Plugins/XMPP/SVG/XMPP_logo.svg" width="128" height="128"> | [:octocat: `SDE MobileServer XMPP Plugin`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_XMPP/) | XMPP support for MobileServer | `XSLT` |
 
 ***
 
 ## [Utilities](#Utilities)
 
-There are currently `2` official utilities for SDE MobileServer, as of 2023, Monday, June 12th, which include:
+There are currently `2` official utilities for SDE MobileServer, as of 2023, Tuesday, June 13th, which include:
 
 | Logo | Repo link | Info | Language(s) | 
 |---|---|---|---|
@@ -113,7 +115,7 @@ These are not to be confused with plugins. Utilities help configure and setup th
 
 ## [Repositories](#Repositories)
 
-As of 2023, Monday, June 12th, there are `14` repositories that are part of this project. They include:
+As of 2023, Tuesday, June 13th, there are `16` repositories that are part of this project. They include:
 
 - [:octocat: `SDE MobileServer (current repository)`](https://github.com/seanpm2001/SDE_MobileServer/) - Home repository
 - [:octocat: `SDE MobileServer Docs`](https://github.com/seanpm2001/SDE_MobileServer_Docs/) - Documentation repository
@@ -129,6 +131,8 @@ As of 2023, Monday, June 12th, there are `14` repositories that are part of this
 - [:octocat: `SDE MobileServer Plugins RuffleRS`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_Ruffle/) - RuffleRS plugin for SDE MOBSVR
 - [:octocat: `SDE MobileServer Plugins WordPress`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_WordPress/) - WordPress plugin for SDE MOBSVR
 - [:octocat: `SDE MobileServer Plugins MediaWiki`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_MediaWiki/) - MediaWiki plugin for SDE MOBSVR
+- [:octocat: `SDE MobileServer Plugins SNU`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_SNU/) - SNU plugin for SDE MOBSVR
+- [:octocat: `SDE MobileServer Plugins XMPP`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_XMPP/) - XMPP plugin for SDE MOBSVR 
 - More repositories coming soon.
 
 ***
@@ -147,17 +151,17 @@ As of 2023, Monday, June 12th, there are `14` repositories that are part of this
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `7 (2023, Monday, June 12th at 10:42 pm PST)`
+**File version:** `8 (2023, Tuesday, June 13th at 02:16 pm PST)`
 
-**Line count (including blank lines and compiler line):** `340`
+**Line count (including blank lines and compiler line):** `366`
 
-**Word count:** `2,049`
+**Word count:** `2,263`
 
-**Character count (including spaces):** `14,375`
+**Character count (including spaces):** `15,845`
 
-**Character count (excluding spaces):** `12,478`
+**Character count (excluding spaces):** `13,778`
 
-**Size (in bytes):** `14,403`
+**Size (in bytes):** `15,873`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -321,6 +325,28 @@ As of 2023, Monday, June 12th, there are `14` repositories that are part of this
 - - [x] Added an entry for version 7
 - [x] Added the footer
 - [ ] No other changes in version 7
+
+</details>
+
+---
+
+<details><summary><p lang="en"><b>Version 8 (2023, Tuesday, June 13th at 02:16 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Repositories` section
+- [x] Updated the `Plugins` section
+- - [x] Added the latest 2 entries
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 8
+- [x] Added the footer
+- [ ] No other changes in version 8
 
 </details>
 
