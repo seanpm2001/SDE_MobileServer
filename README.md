@@ -65,7 +65,7 @@ Documentation is located in a separate repository: [:octocat: `SDE MobileServer 
 
 ## [Ports](#Ports)
 
-Official Ports of SDE MobileServer are currently available for `6` operating systems, as of 2023, Wednesday, June 14th, which include:
+Official Ports of SDE MobileServer are currently available for `6` operating systems, as of 2023, Friday, June 16th, which include:
 
 | Logo | Repo link | Info | Language(s) | 
 |---|---|---|---|
@@ -87,7 +87,7 @@ This is for the server itself. The [imager](#Imager), and other [utilities](#Uti
 
 ## [Plugins](#Plugins)
 
-There are currently `8` official plugins for SDE MobileServer, as of 2023, Wednesday, June 14th, which include:
+There are currently `10` official plugins for SDE MobileServer, as of 2023, Friday, June 16th, which include:
 
 | Logo | Repo link | Info | Language(s) | 
 |---|---|---|---|
@@ -99,12 +99,14 @@ There are currently `8` official plugins for SDE MobileServer, as of 2023, Wedne
 | <img src="/Graphics/Plugins/XMPP/SVG/XMPP_logo.svg" alt="/Graphics/Plugins/XMPP/SVG/XMPP_logo.svg" width="128" height="128"> | [:octocat: `SDE MobileServer XMPP Plugin`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_XMPP/) | XMPP support for MobileServer | `XSLT` |
 | <img src="/Graphics/Plugins/Jekyll/SVG/jekyll-test-tube.svg" alt="/Graphics/Plugins/Jekyll/SVG/jekyll-test-tube.svg" width="128" height="128"> | [:octocat: `SDE MobileServer Jekyll Plugin`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_Jekyll/) | Jekyll support for MobileServer | `Ruby` |
 | <img src="/Graphics/Plugins/MdBook/PNG/MdBook_Logo_Small_196px.png" alt="/Graphics/Plugins/MdBook/PNG/MdBook_Logo_Small_196px.png" width="128" height="128"> | [:octocat: `SDE MobileServer MdBook Plugin`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_MdBook/) | MdBook support for MobileServer | `Rust` |
+| <img src="/Graphics/Plugins/Gatsby/PNG/GatsbyLogo.png" alt="/Graphics/Plugins/Gatsby/PNG/GatsbyLogo.png" width="128" height="128"> | [:octocat: `SDE MobileServer Gatsby Plugin`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_Gatsby/) | Gatsby support for MobileServer | `JavaScript` |
+| <img src="/Graphics/Plugins/NuxtJS/PNG/NuxtJS_Icon1.png" alt="/Graphics/Plugins/NuxtJS/PNG/NuxtJS_Icon1.png" width="128" height="128"> | [:octocat: `SDE MobileServer NuxtJS Plugin`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_NuxtJS/) | NuxtJS support for MobileServer | `JavaScript` |
 
 ***
 
 ## [Utilities](#Utilities)
 
-There are currently `2` official utilities for SDE MobileServer, as of 2023, Wednesday, June 14th, which include:
+There are currently `2` official utilities for SDE MobileServer, as of 2023, Friday, June 16th, which include:
 
 | Logo | Repo link | Info | Language(s) | 
 |---|---|---|---|
@@ -117,7 +119,7 @@ These are not to be confused with plugins. Utilities help configure and setup th
 
 ## [Repositories](#Repositories)
 
-As of 2023, Wednesday, June 14th, there are `18` repositories that are part of this project. They include:
+As of 2023, Friday, June 16th, there are `20` repositories that are part of this project. They include:
 
 - [:octocat: `SDE MobileServer (current repository)`](https://github.com/seanpm2001/SDE_MobileServer/) - Home repository
 - [:octocat: `SDE MobileServer Docs`](https://github.com/seanpm2001/SDE_MobileServer_Docs/) - Documentation repository
@@ -136,7 +138,9 @@ As of 2023, Wednesday, June 14th, there are `18` repositories that are part of t
 - [:octocat: `SDE MobileServer Plugins SNU`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_SNU/) - SNU plugin for SDE MOBSVR
 - [:octocat: `SDE MobileServer Plugins XMPP`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_XMPP/) - XMPP plugin for SDE MOBSVR 
 - [:octocat: `SDE MobileServer Plugins Jekyll`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_Jekyll/) - Jekyll plugin for SDE MOBSVR 
-- [:octocat: `SDE MobileServer Plugins MdBook`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_MdBook/) - MdBook plugin for SDE MOBSVR 
+- [:octocat: `SDE MobileServer Plugins MdBook`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_MdBook/) - MdBook plugin for SDE MOBSVR
+- [:octocat: `SDE MobileServer Plugins Gatsby`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_Gatsby/) - Gatsby plugin for SDE MOBSV
+- [:octocat: `SDE MobileServer Plugins NuxtJS`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_NuxtJS/) - NuxtJS plugin for SDE MOBSVR
 - More repositories coming soon.
 
 ***
@@ -147,6 +151,14 @@ As of 2023, Wednesday, June 14th, there are `18` repositories that are part of t
 |---|
 | This project is a part of the [S Desktop Environment (SDE, or Skeuowie) project](https://github.com/seanpm2001/SDE/) |
 
+### [Do I need to use the S Desktop Environment (SDE) to use this project?](#do-I-need-to-use-the-S-Desktop-Environment-SDE-to-use-this-project)
+
+No you don't. Just like KDE applications can be run outside of the K Desktop Environment, SDE applications can also be run outside of the S Desktop Environment.
+
+### [Is this project functional?](#Is-this-project-functional)
+
+Not yet. It needs a lot more development time, and some dedicated developers before it becomes functional. If you know how to program in any of the languages that any of this projects platforms, plugins, and utilities uses, and you have an interest in this project/want to see it become a reality, feel free to start programming, and send a pull request. Dedicated programmers who have GitHub sponsors enabled will receive monthly funding for their hard work, ranging from $5 a month to $50 a month. Payment via Patron and OpenCollective is planned for the future.
+
 ***
 
 # [File info](#File-info)
@@ -155,17 +167,17 @@ As of 2023, Wednesday, June 14th, there are `18` repositories that are part of t
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `9 (2023, Wednesday, June 14th at 02:12 pm PST)`
+**File version:** `10 (2023, Friday, June 16th at 11:02 pm PST)`
 
-**Line count (including blank lines and compiler line):** `392`
+**Line count (including blank lines and compiler line):** `427`
 
-**Word count:** `2,475`
+**Word count:** `2,846`
 
-**Character count (including spaces):** `17,362`
+**Character count (including spaces):** `19,698`
 
-**Character count (excluding spaces):** `15,124`
+**Character count (excluding spaces):** `17,238`
 
-**Size (in bytes):** `17,390`
+**Size (in bytes):** `19,826`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -365,6 +377,29 @@ As of 2023, Wednesday, June 14th, there are `18` repositories that are part of t
 - [x] Updated the `Repositories` section
 - [x] Updated the `Plugins` section
 - - [x] Added the latest 2 entries
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 9
+- [x] Added the footer
+- [ ] No other changes in version 9
+
+</details>
+
+---
+
+<details><summary><p lang="en"><b>Version 10 (2023, Friday, June 16th at 11:02 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Repositories` section
+- [x] Updated the `Plugins` section
+- - [x] Added the latest 2 entries
+- [x] Updated the `SDE` section
 - [x] Updated the `file info` section
 - - [x] Updated the version number
 - - [x] Updated the version date
