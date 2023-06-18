@@ -65,7 +65,9 @@ Documentation is located in a separate repository: [:octocat: `SDE MobileServer 
 
 ## [Ports](#Ports)
 
-Official Ports of SDE MobileServer are currently available for `6` operating systems, as of 2023, Friday, June 16th, which include:
+Official Ports of SDE MobileServer are currently available for `6` operating systems, as of 2023, Saturday, June 17th, which include:
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
 
 | Logo | Repo link | Info | Language(s) | 
 |---|---|---|---|
@@ -75,6 +77,8 @@ Official Ports of SDE MobileServer are currently available for `6` operating sys
 | <img src="/Graphics/OSPorts/iPadOS/PNG/iPadOS-Logo.png" alt="/Graphics/OSPorts/iPadOS/iPadOS-Logo.png" width="128" height="128"> | [:octocat: `SDE MobileServer for iPadOS`](https://github.com/seanpm2001/SDE_MobileServer_iPadOS/) | iPadOS port | `Objective-C++` |
 | <img src="/Graphics/OSPorts/PostMarketOS/SVG/PostmarketOS_logo.svg" alt="/Graphics/OSPorts/PostMarketOS/SVG/PostmarketOS_logo.svg" width="128" height="128"> | [:octocat: `SDE MobileServer for PostMarketOS`](https://github.com/seanpm2001/SDE_MobileServer_PostMarketOS) | PostMarketOS port | `Python` `Vala` |
 | <img src="/Graphics/OSPorts/Ubuntu/PNG/UbuntuLogo1.png" alt="/Graphics/OSPorts/Ubuntu/PNG/UbuntuLogo1.png" width="128" height="128"> | [:octocat: `SDE MobileServer for Ubuntu`](https://github.com/seanpm2001/SDE_MobileServer_Ubuntu) | Ubuntu Touch port | `Python` `Vala` |
+
+</details>
 
 This is for the server itself. The [imager](#Imager), and other [utilities](#Utilities) are planned to have support on:
 
@@ -87,7 +91,9 @@ This is for the server itself. The [imager](#Imager), and other [utilities](#Uti
 
 ## [Plugins](#Plugins)
 
-There are currently `10` official plugins for SDE MobileServer, as of 2023, Friday, June 16th, which include:
+There are currently `12` official plugins for SDE MobileServer, as of 2023, Saturday, June 17th, which include:
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
 
 | Logo | Repo link | Info | Language(s) | 
 |---|---|---|---|
@@ -101,12 +107,18 @@ There are currently `10` official plugins for SDE MobileServer, as of 2023, Frid
 | <img src="/Graphics/Plugins/MdBook/PNG/MdBook_Logo_Small_196px.png" alt="/Graphics/Plugins/MdBook/PNG/MdBook_Logo_Small_196px.png" width="128" height="128"> | [:octocat: `SDE MobileServer MdBook Plugin`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_MdBook/) | MdBook support for MobileServer | `Rust` |
 | <img src="/Graphics/Plugins/Gatsby/PNG/GatsbyLogo.png" alt="/Graphics/Plugins/Gatsby/PNG/GatsbyLogo.png" width="128" height="128"> | [:octocat: `SDE MobileServer Gatsby Plugin`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_Gatsby/) | Gatsby support for MobileServer | `JavaScript` |
 | <img src="/Graphics/Plugins/NuxtJS/PNG/NuxtJS_Icon1.png" alt="/Graphics/Plugins/NuxtJS/PNG/NuxtJS_Icon1.png" width="128" height="128"> | [:octocat: `SDE MobileServer NuxtJS Plugin`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_NuxtJS/) | NuxtJS support for MobileServer | `JavaScript` |
+| <img src="/Graphics/Plugins/Hugo/PNG/Hugo-Logo.png" alt="/Graphics/Plugins/Hugo/PNG/Hugo-Logo.png" width="128" height="128"> | [:octocat: `SDE MobileServer Hugo Plugin`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_Hugo/) | Hugo support for MobileServer | `Google Go`, `Rust` |
+| <img src="/Graphics/Plugins/MathJax/PNG/MathJax-Logo-300x300.png" alt="/Graphics/Plugins/MathJax/PNG/MathJax-Logo-300x300.png" width="128" height="128"> | [:octocat: `SDE MobileServer MathJax Plugin`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_MathJax/) | MathJax support for MobileServer | `JavaScript` |
+
+</details>
 
 ***
 
 ## [Utilities](#Utilities)
 
-There are currently `2` official utilities for SDE MobileServer, as of 2023, Friday, June 16th, which include:
+There are currently `2` official utilities for SDE MobileServer, as of 2023, Saturday, June 17th, which include:
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
 
 | Logo | Repo link | Info | Language(s) | 
 |---|---|---|---|
@@ -115,11 +127,15 @@ There are currently `2` official utilities for SDE MobileServer, as of 2023, Fri
 
 These are not to be confused with plugins. Utilities help configure and setup the server, plugins are additional components for the launched server.
 
+</details>
+
 ***
 
 ## [Repositories](#Repositories)
 
-As of 2023, Friday, June 16th, there are `20` repositories that are part of this project. They include:
+As of 2023, Saturday, June 17th, there are `22` repositories that are part of this project. They include:
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this list]</b></p></summary>
 
 - [:octocat: `SDE MobileServer (current repository)`](https://github.com/seanpm2001/SDE_MobileServer/) - Home repository
 - [:octocat: `SDE MobileServer Docs`](https://github.com/seanpm2001/SDE_MobileServer_Docs/) - Documentation repository
@@ -141,7 +157,11 @@ As of 2023, Friday, June 16th, there are `20` repositories that are part of this
 - [:octocat: `SDE MobileServer Plugins MdBook`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_MdBook/) - MdBook plugin for SDE MOBSVR
 - [:octocat: `SDE MobileServer Plugins Gatsby`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_Gatsby/) - Gatsby plugin for SDE MOBSV
 - [:octocat: `SDE MobileServer Plugins NuxtJS`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_NuxtJS/) - NuxtJS plugin for SDE MOBSVR
+- [:octocat: `SDE MobileServer Plugins Hugo`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_Hugo/) - Hugo plugin for SDE MOBSVR
+- [:octocat: `SDE MobileServer Plugins MathJax`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_MathJax/) - MathJax plugin for SDE MOBSVR
 - More repositories coming soon.
+
+</details>
 
 ***
 
@@ -151,6 +171,8 @@ As of 2023, Friday, June 16th, there are `20` repositories that are part of this
 |---|
 | This project is a part of the [S Desktop Environment (SDE, or Skeuowie) project](https://github.com/seanpm2001/SDE/) |
 
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
 ### [Do I need to use the S Desktop Environment (SDE) to use this project?](#do-I-need-to-use-the-S-Desktop-Environment-SDE-to-use-this-project)
 
 No you don't. Just like KDE applications can be run outside of the K Desktop Environment, SDE applications can also be run outside of the S Desktop Environment.
@@ -158,6 +180,8 @@ No you don't. Just like KDE applications can be run outside of the K Desktop Env
 ### [Is this project functional?](#Is-this-project-functional)
 
 Not yet. It needs a lot more development time, and some dedicated developers before it becomes functional. If you know how to program in any of the languages that any of this projects platforms, plugins, and utilities uses, and you have an interest in this project/want to see it become a reality, feel free to start programming, and send a pull request. Dedicated programmers who have GitHub sponsors enabled will receive monthly funding for their hard work, ranging from $5 a month to $50 a month. Payment via Patron and OpenCollective is planned for the future.
+
+</details>
 
 ***
 
@@ -167,17 +191,17 @@ Not yet. It needs a lot more development time, and some dedicated developers bef
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `10 (2023, Friday, June 16th at 11:02 pm PST)`
+**File version:** `11 (2023, Saturday, June 17th at 5:17 pm PST)`
 
 **Line count (including blank lines and compiler line):** `427`
 
-**Word count:** `2,846`
+**Word count:** `3,262`
 
-**Character count (including spaces):** `19,698`
+**Character count (including spaces):** `22.632`
 
-**Character count (excluding spaces):** `17,238`
+**Character count (excluding spaces):** `19,681`
 
-**Size (in bytes):** `19,826`
+**Size (in bytes):** `22,660`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -218,7 +242,7 @@ Not yet. It needs a lot more development time, and some dedicated developers bef
 - [x] Added the `file info` section
 - [ ] No other changes in version 1
 
-</details>
+</details> <!-- End of V01 !-->
 
 ---
 
@@ -233,7 +257,7 @@ Not yet. It needs a lot more development time, and some dedicated developers bef
 - [x] Updated the `file info` section
 - [ ] No other changes in version 2
 
-</details>
+</details> <!-- End of V02 !-->
 
 ---
 
@@ -249,7 +273,7 @@ Not yet. It needs a lot more development time, and some dedicated developers bef
 - [x] Updated the `file info` section
 - [ ] No other changes in version 3
 
-</details>
+</details> <!-- End of V03 !-->
 
 ---
 
@@ -273,7 +297,7 @@ Not yet. It needs a lot more development time, and some dedicated developers bef
 - [x] Added the footer
 - [ ] No other changes in version 4
 
-</details>
+</details> <!-- End of V04 !-->
 
 ---
 
@@ -294,7 +318,7 @@ Not yet. It needs a lot more development time, and some dedicated developers bef
 - [x] Added the footer
 - [ ] No other changes in version 5
 
-</details>
+</details> <!-- End of V05 !-->
 
 ---
 
@@ -320,7 +344,7 @@ Not yet. It needs a lot more development time, and some dedicated developers bef
 - [x] Added the footer
 - [ ] No other changes in version 6
 
-</details>
+</details> <!-- End of V06 !-->
 
 ---
 
@@ -342,7 +366,7 @@ Not yet. It needs a lot more development time, and some dedicated developers bef
 - [x] Added the footer
 - [ ] No other changes in version 7
 
-</details>
+</details> <!-- End of V07 !-->
 
 ---
 
@@ -364,7 +388,7 @@ Not yet. It needs a lot more development time, and some dedicated developers bef
 - [x] Added the footer
 - [ ] No other changes in version 8
 
-</details>
+</details> <!-- End of V08 !-->
 
 ---
 
@@ -386,7 +410,7 @@ Not yet. It needs a lot more development time, and some dedicated developers bef
 - [x] Added the footer
 - [ ] No other changes in version 9
 
-</details>
+</details> <!-- End of V09 !-->
 
 ---
 
@@ -405,15 +429,51 @@ Not yet. It needs a lot more development time, and some dedicated developers bef
 - - [x] Updated the version date
 - - [x] Updated the line count
 - [x] Updated the `file history` section
-- - [x] Added an entry for version 9
+- - [x] Added an entry for version 10
 - [x] Added the footer
-- [ ] No other changes in version 9
+- [ ] No other changes in version 10
 
-</details>
+</details> <!-- End of V10 !-->
 
 ---
 
-</details>
+<details><summary><p lang="en"><b>Version 11 (2023, Saturday, June 17th at 05:17 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Repositories` section
+- - [x] Updated the date
+- - [x] Added the latest 2 entries
+- - [x] Converted the table into a dropdown table
+- [x] Updated the `Plugins` section
+- - [x] Updated the date
+- - [x] Added the latest 2 entries
+- - [x] Converted the table into a dropdown table
+- [x] Updated the `Utilities` section
+- - [x] Updated the date
+- - [x] Converted the table into a dropdown table
+- [x] Updated the `Ports` section
+- - [x] Updated the date
+- - [x] Converted the table into a dropdown table
+- [x] Updated the `SDE` section
+- - [x] Converted the FAQ into a dropdown table
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Updated the entry for version 10
+- - [x] Added an entry for version 11
+- [x] Added the footer
+- [ ] No other changes in version 11
+
+</details> <!-- End of V11 !-->
+
+---
+
+</details> <!-- End of File History !-->
 
 ***
 
