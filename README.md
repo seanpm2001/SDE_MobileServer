@@ -1,6 +1,8 @@
 
 ***
 
+<details open><summary><p lang="en">[Click/tap here to expand/collapse this article]</p></summary>
+
 <img src="/SDE_MobileServer_1024pxIcon_V1_HighCompression.png" alt="SDE MobileServer Logo failed to load" width="280" height="280">
 
 # [SDE MobileServer](#SDE-MobileServer)
@@ -11,6 +13,8 @@
 
 ## [Project goals](#Project-goals)
 
+<details open><summary><p lang="en">[Click/tap here to expand/collapse this section]</p></summary>
+
 This project has 2 major goals:
 
 - To see if it is possible to run an entire server off of a mobile device
@@ -18,19 +22,33 @@ This project has 2 major goals:
 
 This project was made part of the SDE project, as I couldn't fit it in anywhere else, nor make it a separate project.
 
+</details> <!-- End of project goals section !-->
+
 ***
 
 ## [Original draft](#Original-draft)
 
+<details open><summary><p lang="en">[Click/tap here to expand/collapse the original draft]</p></summary>
+
 ### [Imager](#Imager)
+
+<details open><summary><p lang="en">[Click/tap here to expand/collapse the imager section]</p></summary>
 
 The imager is a way to image the server and its data from a desktop computer to a mobile device. Since phones can't be used to program large applications, the imager is a very important component.
 
+</details> <!-- End of imager section !-->
+
 ### [Test zone](#Test-zone)
+
+<details open><summary><p lang="en">[Click/tap here to expand/collapse the test zone section]</p></summary>
 
 The test zone is a set of sandbox servers and tools to test the server on your mobile device before deployment. It contains some basic webpages, along with the 3 acid tests (with some other standards checks) to test how devices display server webpages.
 
+</details> <!-- End of test zone section !-->
+
 ### [Connection types](#Connection-types)
+
+<details open><summary><p lang="en">[Click/tap here to expand/collapse the connection types section]</p></summary>
 
 - Wi-Fi 2.4 Ghz (limited server)
 - Wi-Fi 5.0 Ghz (basic server)
@@ -44,7 +62,11 @@ The test zone is a set of sandbox servers and tools to test the server on your m
 - Mobile hotspot 5.0 Ghz (basic server)
 - Bluetooth (limited server)
 
+</details> <!-- End of connection types section !-->
+
 ### [Languages](#Languages)
+
+<details open><summary><p lang="en">[Click/tap here to expand/collapse the languages section]</p></summary>
 
 SDE MobileServer is written in:
 
@@ -55,17 +77,27 @@ SDE MobileServer is written in:
 - Python, Vala (Ubuntu, PostMarketOS)
 - C (Core)
 
+</details> <!-- End of languages section !-->
+
+</details> <!-- End of original draft !-->
+
 ***
 
 ## [Documentation](#Documentation)
 
+<details open><summary><p lang="en">[Click/tap here to expand/collapse this section]</p></summary>
+
 Documentation is located in a separate repository: [:octocat: `SDE MobileServer Docs`](https://github.com/seanpm2001/SDE_MobileServer_Docs/)
+
+</details> <!-- End of documentation section !-->
 
 ***
 
 ## [Ports](#Ports)
 
-Official Ports of SDE MobileServer are currently available for `6` operating systems, as of 2023, Saturday, June 17th, which include:
+<details open><summary><p lang="en">[Click/tap here to expand/collapse this section]</p></summary>
+
+Official Ports of SDE MobileServer are currently available for `6` operating systems, as of 2023, Sunday, June 18th, which include:
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
 
@@ -78,7 +110,7 @@ Official Ports of SDE MobileServer are currently available for `6` operating sys
 | <img src="/Graphics/OSPorts/PostMarketOS/SVG/PostmarketOS_logo.svg" alt="/Graphics/OSPorts/PostMarketOS/SVG/PostmarketOS_logo.svg" width="128" height="128"> | [:octocat: `SDE MobileServer for PostMarketOS`](https://github.com/seanpm2001/SDE_MobileServer_PostMarketOS) | PostMarketOS port | `Python` `Vala` |
 | <img src="/Graphics/OSPorts/Ubuntu/PNG/UbuntuLogo1.png" alt="/Graphics/OSPorts/Ubuntu/PNG/UbuntuLogo1.png" width="128" height="128"> | [:octocat: `SDE MobileServer for Ubuntu`](https://github.com/seanpm2001/SDE_MobileServer_Ubuntu) | Ubuntu Touch port | `Python` `Vala` |
 
-</details>
+</details> <!-- End of ports table !-->
 
 This is for the server itself. The [imager](#Imager), and other [utilities](#Utilities) are planned to have support on:
 
@@ -87,11 +119,15 @@ This is for the server itself. The [imager](#Imager), and other [utilities](#Uti
 - Windows 7 and up
 - MacOS 10.15 and up
 
+</details> <!-- End of ports section !-->
+
 ***
 
 ## [Plugins](#Plugins)
 
-There are currently `12` official plugins for SDE MobileServer, as of 2023, Saturday, June 17th, which include:
+<details open><summary><p lang="en">[Click/tap here to expand/collapse this section]</p></summary>
+
+There are currently `13` official plugins for SDE MobileServer, as of 2023, Sunday, June 18th, which include:
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
 
@@ -109,14 +145,21 @@ There are currently `12` official plugins for SDE MobileServer, as of 2023, Satu
 | <img src="/Graphics/Plugins/NuxtJS/PNG/NuxtJS_Icon1.png" alt="/Graphics/Plugins/NuxtJS/PNG/NuxtJS_Icon1.png" width="128" height="128"> | [:octocat: `SDE MobileServer NuxtJS Plugin`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_NuxtJS/) | NuxtJS support for MobileServer | `JavaScript` |
 | <img src="/Graphics/Plugins/Hugo/PNG/Hugo-Logo.png" alt="/Graphics/Plugins/Hugo/PNG/Hugo-Logo.png" width="128" height="128"> | [:octocat: `SDE MobileServer Hugo Plugin`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_Hugo/) | Hugo support for MobileServer | `Google Go`, `Rust` |
 | <img src="/Graphics/Plugins/MathJax/PNG/MathJax-Logo-300x300.png" alt="/Graphics/Plugins/MathJax/PNG/MathJax-Logo-300x300.png" width="128" height="128"> | [:octocat: `SDE MobileServer MathJax Plugin`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_MathJax/) | MathJax support for MobileServer | `JavaScript` |
+| <img src="/Graphics/Plugins/OpenStreetMap/SVG/Openstreetmap_logo.svg" alt="/Graphics/Plugins/OpenStreetMap/SVG/Openstreetmap_logo.svg" width="128" height="128"> | [:octocat: `SDE MobileServer OpenStreetMap Plugin`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_OpenStreetMap/) | OpenStreetMap support for MobileServer | `Ruby` |
 
-</details>
+</details> <!-- End of plugins table !-->
+
+You will need the plugins manager utility to use plugins. It is available under [`Utilities`](#Utilities)
+
+</details> <!-- End of plugins section !-->
 
 ***
 
 ## [Utilities](#Utilities)
 
-There are currently `2` official utilities for SDE MobileServer, as of 2023, Saturday, June 17th, which include:
+<details open><summary><p lang="en">[Click/tap here to expand/collapse this section]</p></summary>
+
+There are currently `3` official utilities for SDE MobileServer, as of 2023, Sunday, June 18th, which include:
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
 
@@ -124,16 +167,21 @@ There are currently `2` official utilities for SDE MobileServer, as of 2023, Sat
 |---|---|---|---|
 | <img src="/SDE.png" alt="SDE Logo failed to load" width="128" height="128"> | [:octocat: `SDE MobileServer Imager`](https://github.com/seanpm2001/SDE_MobileServer_Imager/) | Server imaging utility | `C` |
 | <img src="/SDE.png" alt="SDE Logo failed to load" width="128" height="128"> | [:octocat: `SDE MobileServer TestZone`](https://github.com/seanpm2001/SDE_MobileServer_TestZone/) | Server testing utility | `C` |
+| <img src="/SDE.png" alt="SDE Logo failed to load" width="128" height="128"> | [:octocat: `SDE MobileServer PluginManager`](https://github.com/seanpm2001/SDE_MobileServer_PluginManager/) | Plugin management utility | `C` |
+
+</details> <!-- End of utilities table !-->
 
 These are not to be confused with plugins. Utilities help configure and setup the server, plugins are additional components for the launched server.
 
-</details>
+</details> <!-- End of utilities section !-->
 
 ***
 
 ## [Repositories](#Repositories)
 
-As of 2023, Saturday, June 17th, there are `22` repositories that are part of this project. They include:
+<details open><summary><p lang="en">[Click/tap here to expand/collapse this section]</p></summary>
+
+As of 2023, Sunday, June 18th, there are `24` repositories that are part of this project. They include:
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this list]</b></p></summary>
 
@@ -159,29 +207,49 @@ As of 2023, Saturday, June 17th, there are `22` repositories that are part of th
 - [:octocat: `SDE MobileServer Plugins NuxtJS`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_NuxtJS/) - NuxtJS plugin for SDE MOBSVR
 - [:octocat: `SDE MobileServer Plugins Hugo`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_Hugo/) - Hugo plugin for SDE MOBSVR
 - [:octocat: `SDE MobileServer Plugins MathJax`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_MathJax/) - MathJax plugin for SDE MOBSVR
+- [:octocat: `SDE MobileServer Plugins OpenStreetMap`](https://github.com/seanpm2001/SDE_MobileServer_Plugins_OpenStreetMap/) - OpenStreetMap plugin for SDE MOBSVR
+- [:octocat: `SDE MobileServer PluginManager`](https://github.com/seanpm2001/SDE_MobileServer_PluginManager/) - Plugin manager utility
 - More repositories coming soon.
 
-</details>
+</details> <!-- End of repositories listing !-->
+
+</details> <!-- End of repositories section !-->
 
 ***
 
 ## [SDE Project](#SDE-Project)
 
+<details open><summary><p lang="en">[Click/tap here to expand/collapse this section]</p></summary>
+
 | <img src="/SDE.png" alt="SDE Logo failed to load" width="256" height="256"> |
 |---|
 | This project is a part of the [S Desktop Environment (SDE, or Skeuowie) project](https://github.com/seanpm2001/SDE/) |
 
+<!-- </details> <!-- End of SDE Project logo summary section !-->
+
+### [SDE FAQ](#SDE-FAQ)
+
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-### [Do I need to use the S Desktop Environment (SDE) to use this project?](#do-I-need-to-use-the-S-Desktop-Environment-SDE-to-use-this-project)
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+#### [Do I need to use the S Desktop Environment (SDE) to use this project?](#do-I-need-to-use-the-S-Desktop-Environment-SDE-to-use-this-project)
 
 No you don't. Just like KDE applications can be run outside of the K Desktop Environment, SDE applications can also be run outside of the S Desktop Environment.
 
-### [Is this project functional?](#Is-this-project-functional)
+</details> <!-- End of SDE FAQ: Do I need to use the S Desktop Environment (SDE) to use this project? section !-->
+
+#### [Is this project functional?](#Is-this-project-functional)
 
 Not yet. It needs a lot more development time, and some dedicated developers before it becomes functional. If you know how to program in any of the languages that any of this projects platforms, plugins, and utilities uses, and you have an interest in this project/want to see it become a reality, feel free to start programming, and send a pull request. Dedicated programmers who have GitHub sponsors enabled will receive monthly funding for their hard work, ranging from $5 a month to $50 a month. Payment via Patron and OpenCollective is planned for the future.
 
-</details>
+</details> <!-- End of SDE FAQ: Is this project functional? Section !-->
+
+</details> <!-- End of SDE FAQ section !-->
+
+</details> <!-- End of SDE Project section !-->
+
+</details> <!-- End of article !-->
 
 ***
 
@@ -191,17 +259,17 @@ Not yet. It needs a lot more development time, and some dedicated developers bef
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `11 (2023, Saturday, June 17th at 5:17 pm PST)`
+**File version:** `12 (2023, Sunday, June 18th at 05:08 pm PST)`
 
-**Line count (including blank lines and compiler line):** `427`
+**Line count (including blank lines and compiler line):** `587`
 
-**Word count:** `3,262`
+**Word count:** `3,915`
 
-**Character count (including spaces):** `22.632`
+**Character count (including spaces):** `27,203`
 
-**Character count (excluding spaces):** `19,681`
+**Character count (excluding spaces):** `23,638`
 
-**Size (in bytes):** `22,660`
+**Size (in bytes):** `27,231`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -315,7 +383,6 @@ Not yet. It needs a lot more development time, and some dedicated developers bef
 - - [x] Updated the line count
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 5
-- [x] Added the footer
 - [ ] No other changes in version 5
 
 </details> <!-- End of V05 !-->
@@ -341,7 +408,6 @@ Not yet. It needs a lot more development time, and some dedicated developers bef
 - - [x] Updated the line count
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 6
-- [x] Added the footer
 - [ ] No other changes in version 6
 
 </details> <!-- End of V06 !-->
@@ -363,7 +429,6 @@ Not yet. It needs a lot more development time, and some dedicated developers bef
 - - [x] Updated the line count
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 7
-- [x] Added the footer
 - [ ] No other changes in version 7
 
 </details> <!-- End of V07 !-->
@@ -385,7 +450,6 @@ Not yet. It needs a lot more development time, and some dedicated developers bef
 - - [x] Updated the line count
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 8
-- [x] Added the footer
 - [ ] No other changes in version 8
 
 </details> <!-- End of V08 !-->
@@ -407,7 +471,6 @@ Not yet. It needs a lot more development time, and some dedicated developers bef
 - - [x] Updated the line count
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 9
-- [x] Added the footer
 - [ ] No other changes in version 9
 
 </details> <!-- End of V09 !-->
@@ -430,7 +493,6 @@ Not yet. It needs a lot more development time, and some dedicated developers bef
 - - [x] Updated the line count
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 10
-- [x] Added the footer
 - [ ] No other changes in version 10
 
 </details> <!-- End of V10 !-->
@@ -466,10 +528,48 @@ Not yet. It needs a lot more development time, and some dedicated developers bef
 - [x] Updated the `file history` section
 - - [x] Updated the entry for version 10
 - - [x] Added an entry for version 11
-- [x] Added the footer
 - [ ] No other changes in version 11
 
 </details> <!-- End of V11 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 12 (2023, Sunday, June 18th at 05:08 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Added dropdowns to all remaining sections that didn't have them
+- [x] Updated the `Repositories` section
+- - [x] Updated the date
+- - [x] Added the latest 2 entries
+- [x] Updated the `Plugins` section
+- - [x] Updated the date
+- - [x] Added the latest 1 entry
+- [x] Updated the `Utilities` section
+- - [x] Updated the date
+- - [x] Added the latest 1 entry
+- [x] Updated the `Ports` section
+- - [x] Updated the date
+- [x] Updated the `SDE` section
+- - [x] Converted the FAQ into a dropdown table
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Updated the entry for version 5
+- - [x] Updated the entry for version 6
+- - [x] Updated the entry for version 7
+- - [x] Updated the entry for version 8
+- - [x] Updated the entry for version 9
+- - [x] Updated the entry for version 10
+- - [x] Updated the entry for version 11
+- - [x] Added an entry for version 12
+- [ ] No other changes in version 12
+
+</details> <!-- End of V12 !-->
 
 ---
 
