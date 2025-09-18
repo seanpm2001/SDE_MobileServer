@@ -1,0 +1,91 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification
+//// FileName: SDE_MobileServer_REPOLIST.urll
+//// Note: SDE itself is not included into this count.
+//// A list of all SDE MobileServer project repositories by @seanpm2001
+//// As of 2025, Wednesday, September 17th
+
+//// SDE MobileServer Main (2)
+
+https://github.com/seanpm2001/SDE_MobileServer
+https://github.com/seanpm2001/SDE_MobileServer_Docs
+
+//// SDE MobileServer Core (4)
+
+https://github.com/seanpm2001/SDE_MobileServer_Imager
+https://github.com/seanpm2001/SDE_MobileServer_Imager_Docs
+https://github.com/seanpm2001/SDE_MobileServer_TestZone
+https://github.com/seanpm2001/SDE_MobileServer_TestZone_Docs
+
+//// SDE MobileServer OSPorts (12)
+
+https://github.com/seanpm2001/SDE_MobileServer_Android
+https://github.com/seanpm2001/SDE_MobileServer_Android_Docs
+https://github.com/seanpm2001/SDE_MobileServer_FireOS
+https://github.com/seanpm2001/SDE_MobileServer_FireOS_Docs
+https://github.com/seanpm2001/SDE_MobileServer_iPadOS
+https://github.com/seanpm2001/SDE_MobileServer_iPadOS_Docs
+https://github.com/seanpm2001/SDE_MobileServer_iOS
+https://github.com/seanpm2001/SDE_MobileServer_iOS_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Ubuntu
+https://github.com/seanpm2001/SDE_MobileServer_Ubuntu_Docs
+https://github.com/seanpm2001/SDE_MobileServer_PostMarketOS
+https://github.com/seanpm2001/SDE_MobileServer_PostMarketOS_Docs
+
+//// SDE MobileServer Plugins (28)
+
+https://github.com/seanpm2001/SDE_MobileServer_PluginManager
+https://github.com/seanpm2001/SDE_MobileServer_PluginManager_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_CraftCMS
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_CraftCMS_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_Ruffle
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_Ruffle_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_WordPress
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_WordPress_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_MediaWiki
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_MediaWiki_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_SNU
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_SNU_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_XMPP
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_SMPP_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_Jekyll
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_Jekyll_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_MdBook
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_mdBook_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_Gatsby
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_Gatsby_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_NuxtJS
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_NuxtJS_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_Hugo
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_Hugo_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_MathJax
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_MathJax_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_OpenStreetMap
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_OpenStreetMap_Docs
+
+//// ----------------------------------------------------- \\\\
+//// Repo count (SDE MobileServer): 46
+//// 2+4+12+28=46
+//// ----------------------------------------------------- \\\\
+
+//// ----------------------------------------------------- \\\\
+//// See also (1)
+
+https://github.com/seanpm2001/SDE
+
+//// ----------------------------------------------------- \\\\
+//// Repo count (See also): 1
+//// 1+0=1
+//// ----------------------------------------------------- \\\\
+//// Total repo count: 47
+//// 46+1=47
+//// ----------------------------------------------------- \\\\
+
+//// ----------------------------------------------------- \\\\
+//// File info
+//// File type: URLL v3 list file (*.urll)
+//// File version: 2 (2025, Wednesday, September 17th at 05:21 pm PST)
+//// Line count (including blank lines and compiler line): 92
+//// ----------------------------------------------------- \\\\
+
+//// End of file
